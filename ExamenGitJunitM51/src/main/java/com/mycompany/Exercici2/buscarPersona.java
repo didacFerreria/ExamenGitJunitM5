@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package exercici2;
+package com.mycompany.Exercici2;
 
+import static com.mycompany.Exercici2.Metodes.*;
 import java.util.Scanner;
-import static exercici2.Metodes.*;
 
 /**
  *

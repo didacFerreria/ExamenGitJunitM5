@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package exercici1;
+package com.mycompany.Exercici1;
 
-import static exercici1.Metodes.*;
+import static com.mycompany.Exercici1.Metodes.*;
 
 /**
  *
